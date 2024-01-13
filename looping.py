@@ -48,3 +48,9 @@ end = 50
 # prime number
 
 #用for loop 去搵全部質數
+
+
+#problem 2
+#Dragon, Snake, Horse, Sheep, Monkey, Rooster, Dog, Pig, Rat, Ox, Tiger, Hare
+
+#find the zodiac
